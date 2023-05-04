@@ -1,0 +1,4 @@
+models/*
+.env
+docker-compose.yml
+.vscode
